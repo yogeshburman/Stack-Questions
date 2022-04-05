@@ -1,4 +1,4 @@
-// push at bottom
+// push at bottom using recursion
 
 import java.util.*;
 class StackPush {
